@@ -1,8 +1,9 @@
-#Multithreading
-
-##配置
-
-###openmp
+Multithreading
+----
+配置
+---
+openmp
+---
 -	brew安装好openmp之后，再使用brew安装新版LLVM
 - 	使用clang++ 编译
 - 	为了与系统自带的LLVM区分，我们使用下列符号链接
