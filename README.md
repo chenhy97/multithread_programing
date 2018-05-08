@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #Multithreading
 ##配置
 ###openmp
